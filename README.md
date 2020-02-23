@@ -1,2 +1,3 @@
-# belajar2
-Untuk mengerti 
+# Belajar2
+Project Pertama Absensi Fingerprint
+Pertengahan udah selesai(target)
